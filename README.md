@@ -1,4 +1,4 @@
-# Hi, I'm a Data Analyst
+# Aspiring Data Analyst
 
 Aspiring **Data Analyst / SQL Analyst** with a background in economics, accounting, and retail operations.
 
